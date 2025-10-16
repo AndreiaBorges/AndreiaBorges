@@ -1,6 +1,6 @@
 - 👋 olá meu nome é Andreia Borges;
-- 👀 Gosto de aprender e praricar sobre desenvolvimento web;
-- 🌱 Atualmente estou aprendendo HTML CSS e JavaScrpt;
+- 👀 Gosto de aprender e praticar desenvolvimento web;
+- 🌱 Atualmente estou aprendendo HTML CSS, JavaScrpt e React;
 - 💞️ Gosto de colaborar inicialmente com mini projetos;
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
